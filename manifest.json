@@ -1,0 +1,55 @@
+{
+  "icons": [
+    {
+      "src": "./07be9390bd4e490fd021ea123290d008b54c579d/images/icon_16x16.ico",
+      "sizes": "16x16",
+      "type": "image/vnd.microsoft.icon"
+    },
+    {
+      "src": "./07be9390bd4e490fd021ea123290d008b54c579d/images/icon_24x24.ico",
+      "sizes": "24x24",
+      "type": "image/vnd.microsoft.icon"
+    },
+    {
+      "src": "./07be9390bd4e490fd021ea123290d008b54c579d/images/icon_32x32.ico",
+      "sizes": "32x32",
+      "type": "image/vnd.microsoft.icon"
+    },
+    {
+      "src": "./07be9390bd4e490fd021ea123290d008b54c579d/images/icon_64x64.ico",
+      "sizes": "64x64",
+      "type": "image/vnd.microsoft.icon"
+    },
+    {
+      "src": "./07be9390bd4e490fd021ea123290d008b54c579d/images/maskable/icon_512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "./07be9390bd4e490fd021ea123290d008b54c579d/images/maskable/icon_196x196.png",
+      "sizes": "196x196",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "./07be9390bd4e490fd021ea123290d008b54c579d/images/icon_512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "./07be9390bd4e490fd021ea123290d008b54c579d/images/icon_196x196.png",
+      "sizes": "196x196",
+      "type": "image/png"
+    }
+  ],
+  "name": "Stremio Web",
+  "short_name": "Stremio",
+  "orientation": "any",
+  "display": "standalone",
+  "start_url": "./",
+  "description": "Freedom To Stream",
+  "background_color": "#161523",
+  "theme_color": "#2a2843",
+  "scope": "./"
+}
