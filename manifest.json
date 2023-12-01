@@ -1,44 +1,44 @@
 {
   "icons": [
     {
-      "src": "./a4b078da7620bc1a97a67733fb01386a97eb6f56/images/icon_16x16.ico",
+      "src": "./88da833e4dee7807951b8fdfb3426fe98453f5a9/images/icon_16x16.ico",
       "sizes": "16x16",
       "type": "image/vnd.microsoft.icon"
     },
     {
-      "src": "./a4b078da7620bc1a97a67733fb01386a97eb6f56/images/icon_24x24.ico",
+      "src": "./88da833e4dee7807951b8fdfb3426fe98453f5a9/images/icon_24x24.ico",
       "sizes": "24x24",
       "type": "image/vnd.microsoft.icon"
     },
     {
-      "src": "./a4b078da7620bc1a97a67733fb01386a97eb6f56/images/icon_32x32.ico",
+      "src": "./88da833e4dee7807951b8fdfb3426fe98453f5a9/images/icon_32x32.ico",
       "sizes": "32x32",
       "type": "image/vnd.microsoft.icon"
     },
     {
-      "src": "./a4b078da7620bc1a97a67733fb01386a97eb6f56/images/icon_64x64.ico",
+      "src": "./88da833e4dee7807951b8fdfb3426fe98453f5a9/images/icon_64x64.ico",
       "sizes": "64x64",
       "type": "image/vnd.microsoft.icon"
     },
     {
-      "src": "./a4b078da7620bc1a97a67733fb01386a97eb6f56/images/maskable/icon_512x512.png",
+      "src": "./88da833e4dee7807951b8fdfb3426fe98453f5a9/images/maskable/icon_512x512.png",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "maskable"
     },
     {
-      "src": "./a4b078da7620bc1a97a67733fb01386a97eb6f56/images/maskable/icon_196x196.png",
+      "src": "./88da833e4dee7807951b8fdfb3426fe98453f5a9/images/maskable/icon_196x196.png",
       "sizes": "196x196",
       "type": "image/png",
       "purpose": "maskable"
     },
     {
-      "src": "./a4b078da7620bc1a97a67733fb01386a97eb6f56/images/icon_512x512.png",
+      "src": "./88da833e4dee7807951b8fdfb3426fe98453f5a9/images/icon_512x512.png",
       "sizes": "512x512",
       "type": "image/png"
     },
     {
-      "src": "./a4b078da7620bc1a97a67733fb01386a97eb6f56/images/icon_196x196.png",
+      "src": "./88da833e4dee7807951b8fdfb3426fe98453f5a9/images/icon_196x196.png",
       "sizes": "196x196",
       "type": "image/png"
     }
